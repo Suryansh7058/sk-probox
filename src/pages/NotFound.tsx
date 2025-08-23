@@ -99,11 +99,6 @@ const NotFound: React.FC = () => {
             Try using the navigation menu above or contact our support team for assistance.
           </p>
         </div>
-
-        {/* Loading Animation */}
-        <div className="mt-8 opacity-50">
-          <LoadingSpinner size="sm" />
-        </div>
       </div>
     </div>
   )

@@ -100,3 +100,5 @@ temp/
 *.tsbuildinfo
 
 docs/*
+# Local Netlify folder
+.netlify
